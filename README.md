@@ -1,4 +1,4 @@
-# Airline Passenger Satisfaction Prediction Project with Decision-Tree
+# Airline Passenger Satisfaction Prediction Project -- Decision Tree
 
 # Project Description
 
