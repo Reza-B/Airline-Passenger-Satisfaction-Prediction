@@ -1,3 +1,5 @@
+# Airline Passenger Satisfaction Prediction Project
+
 # Project Description
 
   The project aims to analyze and predict passenger satisfaction with their airline travel experience using machine learning techniques. It utilizes a dataset containing various attributes related to passengers' demographics, travel preferences, flight details, and ratings for different services provided during the flight. By leveraging this dataset, the project seeks to understand the factors that influence passenger satisfaction and develop predictive models to forecast whether a passenger will be satisfied or dissatisfied based on their characteristics and flight-related factors.
